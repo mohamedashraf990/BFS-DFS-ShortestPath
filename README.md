@@ -1,7 +1,7 @@
 # BFS-DFS-ShortestPath
 This is a project that implements breadth-first search and depth-first search to solve the problem.
 
-#Project Desciption
+# Project Desciption
 In this project, a player is placed in an m × n grid-shaped maze. A cell in the maze can either contain
 only one of the player or an obstacle. The player is allowed to move in the four directions
 up, down, left and right given that the cell he will be moving to does not contain an obstacle.
